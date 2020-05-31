@@ -2,7 +2,7 @@
 
 This dragon hoards `k n o w l e d g e`.
 
-![image-20200531174459499](./The Hoard/assets/README/image-20200531174459499.png)
+![image-20200531174459499](./The-Hoard/assets/README/image-20200531174459499.png)
 
 [Image Source](https://iguanamouth.tumblr.com/post/90613272412/unusual-hoard-commission-for-fatetea-this-dragon)
 
@@ -98,7 +98,7 @@ I make no guarantees for accuracy! But I will be citing my sources, so please do
 
 ## Support my efforts!
 
-[![Yeah! Buy the DRAGON a COFFEE!](./The Hoard/assets/README/COFFEE%20BUTTON%20%E3%83%BE(%C2%B0%E2%88%87%C2%B0%5E).png)](https://www.buymeacoffee.com/methylDragon)
+[![Yeah! Buy the DRAGON a COFFEE!](./The-Hoard/assets/README/COFFEE%20BUTTON%20%E3%83%BE(%C2%B0%E2%88%87%C2%B0%5E).png)](https://www.buymeacoffee.com/methylDragon)
 
 [Or leave a tip! ヾ(°∇°*)](https://www.paypal.me/methylDragon)
 
