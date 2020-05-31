@@ -2,7 +2,7 @@
 
 This dragon hoards `k n o w l e d g e`.
 
-![image-20200531174459499](assets/README/image-20200531174459499.png)
+![image-20200531174459499](./The Hoard/assets/README/image-20200531174459499.png)
 
 [Image Source](https://iguanamouth.tumblr.com/post/90613272412/unusual-hoard-commission-for-fatetea-this-dragon)
 
@@ -41,6 +41,31 @@ Though you might find the occasional life sciences or humanities, or even game d
 
 ## Using This Resource
 
+### On Depth of Topics Covered
+
+By nature of the concise way the concepts and topics are presented, this resource should be treated as a way to quickly get an introduction to and familiarity of the topic. This is because this is written to aid in understanding or reading jargon-heavy literature or papers, as well as provide quick intuitive refreshers for concepts.
+
+**The hoard is not meant to be exhaustive or definitive!**
+
+If you needs a much more in-depth treatise on a topic, you can either look at the references if they are cited, or search up the terms yourself with the (hopefully) better understanding of the topic you've gotten from this resource.
+
+
+
+### Using It
+
+You should be using this resource like an encyclopedia or a reference! This is not like my other tutorials out there!
+
+Trying to read everything in one go might overwhelm you, I think it'd overwhelm me too!
+
+Some recommended ways to use this resource are:
+
+- Come to this resource to get an introduction to a particular topic you are interested in.
+- Keep the relevant resource for a particular domain open while you are reading a paper to quickly `ctrl-F` and search up a concept or topic.
+
+
+
+### Programs for Reading It
+
 Even though this is hosted on GitHub, I'd recommend cloning the repository and using something like [Typora](https://typora.io/) to read and go through the notes!
 
 This is because having access to an **outline** of headers will make searching for topics much easier.
@@ -73,7 +98,7 @@ I make no guarantees for accuracy! But I will be citing my sources, so please do
 
 ## Support my efforts!
 
-[![Yeah! Buy the DRAGON a COFFEE!](./assets/README/COFFEE%20BUTTON%20%E3%83%BE(%C2%B0%E2%88%87%C2%B0%5E).png)](https://www.buymeacoffee.com/methylDragon)
+[![Yeah! Buy the DRAGON a COFFEE!](./The Hoard/assets/README/COFFEE%20BUTTON%20%E3%83%BE(%C2%B0%E2%88%87%C2%B0%5E).png)](https://www.buymeacoffee.com/methylDragon)
 
 [Or leave a tip! ヾ(°∇°*)](https://www.paypal.me/methylDragon)
 
