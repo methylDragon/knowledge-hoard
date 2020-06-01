@@ -360,7 +360,7 @@ $$
 
 ##### L∞-norm (Maximum Norm)
 
-Also known as the infinity or supremum norm
+Also known as the infinity or supremum norm.
 
 The **maximum element** of the vector.
 $$
@@ -417,7 +417,7 @@ $$
 
 ##### L1-metric (Manhattan Distance)
 
-Also known as ctiy block distance or taxicab distance.
+Also known as city block distance or taxicab distance.
 
 It is the sum of the differences of the individual elements of the vectors in question.
 $$
@@ -513,7 +513,7 @@ All points along the drawn circles are distance = 1 from the origin! But you not
 
 
 
-### WIP: Cosine Distance
+#### **WIP: Cosine Distance**
 
 [Source](https://www.cs.utah.edu/~jeffp/teaching/cs5955/L7-Distances.pdf)
 
@@ -583,6 +583,24 @@ Just insert a 0!
 So on and so forth.
 
 Note that there are formal definitions, but getting the intuition behind it is more important.
+
+
+
+#### **WIP: Jaccard Distance**
+
+https://en.wikipedia.org/wiki/Jaccard_index
+
+![img](assets/Math/200px-Intersection_of_sets_A_and_B.svg-1590951918306.png)
+
+[Image Source](https://en.wikipedia.org/wiki/Jaccard_index)
+
+1 - (size of intersection / size of union) <-- which is the jaccard index
+
+
+
+#### **WIP: Graph Distance**
+
+https://www.cs.utah.edu/~jeffp/teaching/cs5955/L7-Distances.pdf
 
 
 
@@ -693,7 +711,7 @@ http://www-users.math.umn.edu/~brubaker/docs/152/152groups.pdf
 
 ---
 
-[![Yeah! Buy the DRAGON a COFFEE!](assets/Math/COFFEE BUTTON ヾ(°∇°^).png)](https://www.buymeacoffee.com/methylDragon)
+[![Yeah! Buy the DRAGON a COFFEE!](assets/Math/COFFEE%20BUTTON%20%E3%83%BE(%C2%B0%E2%88%87%C2%B0%5E).png)](https://www.buymeacoffee.com/methylDragon)
 
 [Or leave a tip! ヾ(°∇°*)](https://www.paypal.me/methylDragon)
 

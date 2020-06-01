@@ -6,6 +6,8 @@ This dragon hoards `k n o w l e d g e`.
 
 [Image Source](https://iguanamouth.tumblr.com/post/90613272412/unusual-hoard-commission-for-fatetea-this-dragon)
 
+---
+
 ## Description (and why I am doing this)
 
 Hello! Welcome to my hoard of knowledge, shared freely and openly on the internet.
@@ -66,11 +68,16 @@ Some recommended ways to use this resource are:
 
 ### Programs for Reading It
 
-Even though this is hosted on GitHub, I'd recommend cloning the repository and using something like [Typora](https://typora.io/) to read and go through the notes!
+Even though this is hosted on GitHub, I'd recommend cloning the repository and using something like [Typora](https://typora.io/) to read and go through the notes! This will let you:
 
-This is because having access to an **outline** of headers will make searching for topics much easier.
+- Visualise the `LaTeX` math (since GitHub does not support dynamic generation of math expressions, and I don't exactly want to keep regenerating math expression images
+- Easily search through outlines
 
-I'd have preferred to use something hosted online like [HackMD](https://hackmd.io/), but due to size and visibility constraints I decided against it.
+This is because having access to an **outline** of headers will make searching for topics much easier. **You can also scroll up on the outline to search just within the outline**!
+
+This will help prevent spurious matches with the body text and help focus your searches to keywords in the headers!!
+
+**N.B.**: I'd have preferred to use something hosted online like [HackMD](https://hackmd.io/), but due to size and visibility constraints I decided against it.
 
 
 
